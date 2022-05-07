@@ -1,16 +1,7 @@
 # on_boarding_screen
 
-A new Flutter project.
+Flutter OnBoarding Screen for Users to let them know about your application with some description.
 
-## Getting Started
-
-This project is a starting point for a Flutter application.
-
-A few resources to get you started if this is your first Flutter project:
-
-- [Lab: Write your first Flutter app](https://flutter.dev/docs/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://flutter.dev/docs/cookbook)
-
-For help getting started with Flutter, view our
-[online documentation](https://flutter.dev/docs), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+![smartmockups_l2vljnc9](https://user-images.githubusercontent.com/60041910/167249855-676e5c21-7d76-4fe2-b005-773b998bfbc2.jpg)
+![smartmockups_l2vliwz4](https://user-images.githubusercontent.com/60041910/167249857-9cc4412a-91e4-4ce4-bdf6-01651f375053.jpg)
+![smartmockups_l2vliav4](https://user-images.githubusercontent.com/60041910/167249859-2e641fe4-6ecd-459f-b299-482209623363.jpg)
